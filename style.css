@@ -8,7 +8,8 @@
 /* .main = Toute la page */
 .main{
     width: 100%;
-    background: #fff; /* Image de fond */
+    /* background: #fff; Image de fond */
+    background: turquoise;
     background-position: center;
     background-size: cover; /* L'image couvre tout l'écran */
     height: 100vh; /* 100% de la hauteur de l'écran */
